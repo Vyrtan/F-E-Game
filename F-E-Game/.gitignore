@@ -1,23 +1,44 @@
-*.aux
-*.log
-*.bbl
-*.loa
-*.lof
-*.gz
-*.toc
-*.thm
-*.blg
-*.txt
-*.synctex.gz
-*.synctex
-*.lol
-main.pdf
-*.out
-*.lot
-*.nav
-*.snm
-*.glg
-*.glo
-*.gls
-*.ist
-*.xdy
+# =============== #
+# Unity generated #
+# =============== #
+[Tt]emp/
+[Oo]bj/
+[Bb]uild
+[Ll]ibrary/
+sysinfo.txt
+*.stackdump
+[Pp]rojectSettings/ProjectVersion.txt
+ 
+# ===================================== #
+# Visual Studio / MonoDevelop generated #
+# ===================================== #
+[Ee]xported[Oo]bj/
+.vs/
+/*.userprefs
+/*.csproj
+/*.pidb
+/*.suo
+/*.sln*
+/*.user
+/*.unityproj
+/*.booproj
+ 
+# ============ #
+# OS generated #
+# ============ #
+.DS_Store*
+._*
+.Spotlight-V100
+.Trashes
+Icon?
+ehthumbs.db
+[Tt]humbs.db
+[Tt]humbs.db.meta
+
+
+*.bak
+*.ai
+*.ai.meta
+*.lock
+*.asta.meta
+*.asta.lock.meta
