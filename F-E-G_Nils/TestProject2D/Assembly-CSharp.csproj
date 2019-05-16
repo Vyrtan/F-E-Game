@@ -53,7 +53,8 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-     <Compile Include="Assets\CullOut.cs" />
+     <Compile Include="Assets\Skripts\DatabaseTest_Script.cs" />
+     <Compile Include="Assets\Skripts\SetObjectInactive.cs" />
  <Reference Include="Unity.TextMeshPro.Editor">
  <HintPath>C:/Users/Nils/Desktop/F-E-Game/F-E-G_Nils/TestProject2D/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
  </Reference>
@@ -270,6 +271,9 @@
  <Reference Include="UnityEngine.SpatialTracking">
  <HintPath>D:/Programme/Unity/Editor/Data/UnityExtensions/Unity/UnitySpatialTracking/RuntimeEditor/UnityEngine.SpatialTracking.dll</HintPath>
  </Reference>
+ <Reference Include="Mono.Data.Sqlite">
+ <HintPath>C:/Users/Nils/Desktop/F-E-Game/F-E-G_Nils/TestProject2D/Assets/Plugins/Mono.Data.Sqlite.dll</HintPath>
+ </Reference>
  <Reference Include="Unity.Analytics.Editor">
  <HintPath>C:/Users/Nils/Desktop/F-E-Game/F-E-G_Nils/TestProject2D/Library/PackageCache/com.unity.analytics@3.2.2/Unity.Analytics.Editor.dll</HintPath>
  </Reference>
@@ -278,12 +282,6 @@
  </Reference>
  <Reference Include="Unity.Analytics.Tracker">
  <HintPath>C:/Users/Nils/Desktop/F-E-Game/F-E-G_Nils/TestProject2D/Library/PackageCache/com.unity.analytics@3.2.2/Unity.Analytics.Tracker.dll</HintPath>
- </Reference>
- <Reference Include="Mono.Data.Sqlite">
- <HintPath>C:/Users/Nils/Desktop/F-E-Game/F-E-G_Nils/TestProject2D/Assets/Plugins/Mono.Data.Sqlite.dll</HintPath>
- </Reference>
- <Reference Include="System.Data">
- <HintPath>C:/Users/Nils/Desktop/F-E-Game/F-E-G_Nils/TestProject2D/Assets/Plugins/System.Data.dll</HintPath>
  </Reference>
  <Reference Include="netstandard">
  <HintPath>D:/Programme/Unity/Editor/Data/NetStandard/ref/2.0.0/netstandard.dll</HintPath>
